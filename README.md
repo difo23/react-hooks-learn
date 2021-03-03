@@ -17,4 +17,9 @@ Usamos ``` shallow ```
 ## Pruebas sobre useCounter
 Usamos renderHook
 
+## Pruebas useForm
+Test basicos
+
+## Pruebas useFetch
+Usamos waitForNextUpdate
 
