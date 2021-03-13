@@ -23,3 +23,7 @@ Test basicos
 ## Pruebas useFetch
 Usamos waitForNextUpdate
 
+## Pruebas multiples hooks simultaneos
+
+
+
